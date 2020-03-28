@@ -46,7 +46,7 @@
 
 ![Detalhes](https://github.com/BrunoVarg/be-the-hero/blob/master/Detalhes.png)
 
-#Utilizações:
+###Utilizações:
 
 - Javascript
 - HTML
